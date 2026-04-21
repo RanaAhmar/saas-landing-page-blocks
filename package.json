@@ -1,0 +1,20 @@
+{
+  "name": "saas-landing-page-blocks",
+  "version": "1.0.0",
+  "description": "Conversion-optimized React + Tailwind CSS components for high-performance SaaS landing pages.",
+  "keywords": [
+    "react",
+    "tailwind-css",
+    "saas",
+    "landing-page",
+    "ui-components",
+    "marketing",
+    "conversion-optimization"
+  ],
+  "author": "Ahmar Hussain (Stackaura)",
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.284.0"
+  }
+}
