@@ -14,7 +14,7 @@
   "author": "Ahmar Hussain (Stackaura)",
   "license": "MIT",
   "dependencies": {
-    "framer-motion": "^10.16.4",
+    "framer-motion": "^12.38.0",
     "lucide-react": "^0.284.0"
   }
 }
